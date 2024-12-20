@@ -1,5 +1,3 @@
-// src/App.js
-import React from 'react';
 import ServiceTagExtractor from './components/ServiceTagExtractor';
 
 function App() {
