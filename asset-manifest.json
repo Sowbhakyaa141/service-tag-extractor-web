@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/service-tag-extractor-web/static/css/main.042cc223.css",
+    "main.js": "/service-tag-extractor-web/static/js/main.5a521f6f.js",
+    "static/js/488.45fd7553.chunk.js": "/service-tag-extractor-web/static/js/488.45fd7553.chunk.js",
+    "index.html": "/service-tag-extractor-web/index.html",
+    "main.042cc223.css.map": "/service-tag-extractor-web/static/css/main.042cc223.css.map",
+    "main.5a521f6f.js.map": "/service-tag-extractor-web/static/js/main.5a521f6f.js.map",
+    "488.45fd7553.chunk.js.map": "/service-tag-extractor-web/static/js/488.45fd7553.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.042cc223.css",
+    "static/js/main.5a521f6f.js"
+  ]
+}
